@@ -13,7 +13,7 @@ Perfect for creators, entrepreneurs, marketers, and professionals.
 - [Creative Writing & Storytelling](prompts/storytelling.md)  
 - [AI Automation & Tools](prompts/automation.md)  
 - [Sales & Persuasion](prompts/sales.md)  
-…and more coming soon.
+…and more coming soon. 
 
 ## 🎯 How to Use These Prompts
 1. Browse a category above  
