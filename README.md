@@ -26,7 +26,7 @@ Perfect for creators, entrepreneurs, marketers, and professionals.
 Have a great productivity prompt? Open a pull request to share it with the community.  
 This is a **free and open project** — contributions are welcome.
 
-## 📚 Full Extended Pack (Optional)
+## 📚 Full Extended Pack
 If you enjoy this free library and want **1,000+ more prompts** across 14 categories — plus bonus frameworks, viral templates, and AI integration tips — you can check out the extended version here:  
 
 👉 [Get the Full Pack](https://bit.ly/3JtTEZ1)  
