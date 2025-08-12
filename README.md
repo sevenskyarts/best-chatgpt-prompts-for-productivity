@@ -1,6 +1,5 @@
 # best-chatgpt-prompts-for-productivity
 Free collection of high-performance ChatGPT prompts to boost productivity for creators, marketers, and entrepreneurs. Works with ChatGPT, Claude, Gemini & more.
-# Best ChatGPT Prompts for Productivity 🚀
 
 A free, community-driven collection of **high-performance ChatGPT prompts** to help you create faster, sell smarter, and scale bigger.  
 Perfect for creators, entrepreneurs, marketers, and professionals.  
@@ -31,4 +30,4 @@ If you enjoy this free library and want **1,000+ more prompts** across 14 catego
 
 👉 [Get the Full Pack](https://bit.ly/3JtTEZ1)  
 
-*Educational use only. © 2025 Your Name*
+*Educational use only. © 2025
